@@ -32,3 +32,205 @@
 03/04/21 11:37:52 v1.35-beta @ ariana, prp9 = 153132829
 03/04/21 11:37:52 v1.35-beta @ ariana, prp46 = 3431994471326757986880577773281740708179813143
 03/04/21 11:37:52 v1.35-beta @ ariana, Total factoring time = 0.0178 seconds
+03/04/21 15:58:15 v1.35-beta @ ariana, 
+03/04/21 15:58:15 v1.35-beta @ ariana, ****************************
+03/04/21 15:58:15 v1.35-beta @ ariana, Starting factorization of 286322910801143911733903134120033644191475984659954
+03/04/21 15:58:15 v1.35-beta @ ariana, using pretesting plan: normal
+03/04/21 15:58:15 v1.35-beta @ ariana, no tune info: using qs/gnfs crossover of 95 digits
+03/04/21 15:58:15 v1.35-beta @ ariana, no tune info: using qs/snfs crossover of 75 digits
+03/04/21 15:58:15 v1.35-beta @ ariana, ****************************
+03/04/21 15:58:15 v1.35-beta @ ariana, div: found prime factor = 2
+03/04/21 15:58:15 v1.35-beta @ ariana, rho: x^2 + 3, starting 1000 iterations on C51
+03/04/21 15:58:15 v1.35-beta @ ariana, prp11 = 21360005879
+03/04/21 15:58:15 v1.35-beta @ ariana, rho: x^2 + 3, starting 1000 iterations on C40
+03/04/21 15:58:15 v1.35-beta @ ariana, rho: x^2 + 2, starting 1000 iterations on C40
+03/04/21 15:58:15 v1.35-beta @ ariana, rho: x^2 + 1, starting 1000 iterations on C40
+03/04/21 15:58:15 v1.35-beta @ ariana, prp12 = 548916918533
+03/04/21 15:58:15 v1.35-beta @ ariana, prp29 = 12210069059174205514291374211
+03/04/21 15:58:15 v1.35-beta @ ariana, Total factoring time = 0.3172 seconds
+03/04/21 15:58:19 v1.35-beta @ ariana, 
+03/04/21 15:58:19 v1.35-beta @ ariana, ****************************
+03/04/21 15:58:19 v1.35-beta @ ariana, Starting factorization of 285528636654034224062145234787496347043206732836896432474019
+03/04/21 15:58:19 v1.35-beta @ ariana, using pretesting plan: normal
+03/04/21 15:58:19 v1.35-beta @ ariana, no tune info: using qs/gnfs crossover of 95 digits
+03/04/21 15:58:19 v1.35-beta @ ariana, no tune info: using qs/snfs crossover of 75 digits
+03/04/21 15:58:19 v1.35-beta @ ariana, ****************************
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 3
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 11
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 13
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 17
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 17
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 19
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 19
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 23
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 23
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 31
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 41
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 47
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 53
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 53
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 59
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 59
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 59
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 59
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 61
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 61
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 67
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 67
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 67
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 71
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 71
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 71
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 73
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 79
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 79
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 79
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 79
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 83
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 89
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 89
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 89
+03/04/21 15:58:19 v1.35-beta @ ariana, div: found prime factor = 89
+03/04/21 15:58:19 v1.35-beta @ ariana, Total factoring time = 0.0007 seconds
+03/04/21 15:58:25 v1.35-beta @ ariana, 
+03/04/21 15:58:25 v1.35-beta @ ariana, ****************************
+03/04/21 15:58:25 v1.35-beta @ ariana, Starting factorization of 285528636654034224062145234787496347043206732836896432474019
+03/04/21 15:58:25 v1.35-beta @ ariana, using pretesting plan: normal
+03/04/21 15:58:25 v1.35-beta @ ariana, no tune info: using qs/gnfs crossover of 95 digits
+03/04/21 15:58:25 v1.35-beta @ ariana, no tune info: using qs/snfs crossover of 75 digits
+03/04/21 15:58:25 v1.35-beta @ ariana, ****************************
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 3
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 11
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 13
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 17
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 17
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 19
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 19
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 23
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 23
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 31
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 41
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 47
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 53
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 53
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 59
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 59
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 59
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 59
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 61
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 61
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 67
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 67
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 67
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 71
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 71
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 71
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 73
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 79
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 79
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 79
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 79
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 83
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 89
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 89
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 89
+03/04/21 15:58:25 v1.35-beta @ ariana, div: found prime factor = 89
+03/04/21 15:58:25 v1.35-beta @ ariana, Total factoring time = 0.0007 seconds
+03/04/21 15:58:26 v1.35-beta @ ariana, 
+03/04/21 15:58:26 v1.35-beta @ ariana, ****************************
+03/04/21 15:58:26 v1.35-beta @ ariana, Starting factorization of 286322910801143911733903134120033644191475984659954
+03/04/21 15:58:26 v1.35-beta @ ariana, using pretesting plan: normal
+03/04/21 15:58:26 v1.35-beta @ ariana, no tune info: using qs/gnfs crossover of 95 digits
+03/04/21 15:58:26 v1.35-beta @ ariana, no tune info: using qs/snfs crossover of 75 digits
+03/04/21 15:58:26 v1.35-beta @ ariana, ****************************
+03/04/21 15:58:26 v1.35-beta @ ariana, div: found prime factor = 2
+03/04/21 15:58:26 v1.35-beta @ ariana, rho: x^2 + 3, starting 1000 iterations on C51
+03/04/21 15:58:26 v1.35-beta @ ariana, prp11 = 21360005879
+03/04/21 15:58:26 v1.35-beta @ ariana, rho: x^2 + 3, starting 1000 iterations on C40
+03/04/21 15:58:26 v1.35-beta @ ariana, rho: x^2 + 2, starting 1000 iterations on C40
+03/04/21 15:58:26 v1.35-beta @ ariana, rho: x^2 + 1, starting 1000 iterations on C40
+03/04/21 15:58:26 v1.35-beta @ ariana, prp12 = 548916918533
+03/04/21 15:58:26 v1.35-beta @ ariana, prp29 = 12210069059174205514291374211
+03/04/21 15:58:26 v1.35-beta @ ariana, Total factoring time = 0.3039 seconds
+03/04/21 15:58:33 v1.35-beta @ ariana, 
+03/04/21 15:58:33 v1.35-beta @ ariana, ****************************
+03/04/21 15:58:33 v1.35-beta @ ariana, Starting factorization of 1953850911886844517829572325938296535664276748320759
+03/04/21 15:58:33 v1.35-beta @ ariana, using pretesting plan: normal
+03/04/21 15:58:33 v1.35-beta @ ariana, no tune info: using qs/gnfs crossover of 95 digits
+03/04/21 15:58:33 v1.35-beta @ ariana, no tune info: using qs/snfs crossover of 75 digits
+03/04/21 15:58:33 v1.35-beta @ ariana, ****************************
+03/04/21 15:58:33 v1.35-beta @ ariana, rho: x^2 + 3, starting 1000 iterations on C52
+03/04/21 15:58:33 v1.35-beta @ ariana, prp5 = 11551
+03/04/21 15:58:33 v1.35-beta @ ariana, rho: x^2 + 3, starting 1000 iterations on C48
+03/04/21 15:58:33 v1.35-beta @ ariana, prp7 = 1006651
+03/04/21 15:58:33 v1.35-beta @ ariana, rho: x^2 + 3, starting 1000 iterations on C42
+03/04/21 15:58:33 v1.35-beta @ ariana, prp8 = 47593223
+03/04/21 15:58:33 v1.35-beta @ ariana, prp34 = 3530594112534851630085236679604733
+03/04/21 15:58:34 v1.35-beta @ ariana, Total factoring time = 0.0092 seconds
+03/04/21 15:58:40 v1.35-beta @ ariana, 
+03/04/21 15:58:40 v1.35-beta @ ariana, ****************************
+03/04/21 15:58:40 v1.35-beta @ ariana, Starting factorization of 1953850911886844517829572325938296535664276748320759
+03/04/21 15:58:40 v1.35-beta @ ariana, using pretesting plan: normal
+03/04/21 15:58:40 v1.35-beta @ ariana, no tune info: using qs/gnfs crossover of 95 digits
+03/04/21 15:58:40 v1.35-beta @ ariana, no tune info: using qs/snfs crossover of 75 digits
+03/04/21 15:58:40 v1.35-beta @ ariana, ****************************
+03/04/21 15:58:40 v1.35-beta @ ariana, rho: x^2 + 3, starting 1000 iterations on C52
+03/04/21 15:58:40 v1.35-beta @ ariana, prp5 = 11551
+03/04/21 15:58:40 v1.35-beta @ ariana, rho: x^2 + 3, starting 1000 iterations on C48
+03/04/21 15:58:40 v1.35-beta @ ariana, prp7 = 1006651
+03/04/21 15:58:40 v1.35-beta @ ariana, rho: x^2 + 3, starting 1000 iterations on C42
+03/04/21 15:58:40 v1.35-beta @ ariana, prp8 = 47593223
+03/04/21 15:58:40 v1.35-beta @ ariana, prp34 = 3530594112534851630085236679604733
+03/04/21 15:58:40 v1.35-beta @ ariana, Total factoring time = 0.0089 seconds
+03/04/21 15:58:49 v1.35-beta @ ariana, 
+03/04/21 15:58:49 v1.35-beta @ ariana, ****************************
+03/04/21 15:58:49 v1.35-beta @ ariana, Starting factorization of 8187600236270523708334263464588019758591051541822164220625182587
+03/04/21 15:58:49 v1.35-beta @ ariana, using pretesting plan: normal
+03/04/21 15:58:49 v1.35-beta @ ariana, no tune info: using qs/gnfs crossover of 95 digits
+03/04/21 15:58:49 v1.35-beta @ ariana, no tune info: using qs/snfs crossover of 75 digits
+03/04/21 15:58:49 v1.35-beta @ ariana, ****************************
+03/04/21 15:58:49 v1.35-beta @ ariana, rho: x^2 + 3, starting 1000 iterations on C64
+03/04/21 15:58:49 v1.35-beta @ ariana, prp5 = 71837
+03/04/21 15:58:49 v1.35-beta @ ariana, prp60 = 113974695996081736547103351540125837083829385161158793109751
+03/04/21 15:58:49 v1.35-beta @ ariana, Total factoring time = 0.0207 seconds
+03/04/21 15:58:53 v1.35-beta @ ariana, 
+03/04/21 15:58:53 v1.35-beta @ ariana, ****************************
+03/04/21 15:58:53 v1.35-beta @ ariana, Starting factorization of 8187600236270523708334263464588019758591051541822164220625182587
+03/04/21 15:58:53 v1.35-beta @ ariana, using pretesting plan: normal
+03/04/21 15:58:53 v1.35-beta @ ariana, no tune info: using qs/gnfs crossover of 95 digits
+03/04/21 15:58:53 v1.35-beta @ ariana, no tune info: using qs/snfs crossover of 75 digits
+03/04/21 15:58:53 v1.35-beta @ ariana, ****************************
+03/04/21 15:58:53 v1.35-beta @ ariana, rho: x^2 + 3, starting 1000 iterations on C64
+03/04/21 15:58:53 v1.35-beta @ ariana, prp5 = 71837
+03/04/21 15:58:53 v1.35-beta @ ariana, prp60 = 113974695996081736547103351540125837083829385161158793109751
+03/04/21 15:58:53 v1.35-beta @ ariana, Total factoring time = 0.0235 seconds
+03/04/21 15:59:06 v1.35-beta @ ariana, 
+03/04/21 15:59:06 v1.35-beta @ ariana, ****************************
+03/04/21 15:59:06 v1.35-beta @ ariana, Starting factorization of 27745988001082406709328642326910464190271015775799
+03/04/21 15:59:06 v1.35-beta @ ariana, using pretesting plan: normal
+03/04/21 15:59:06 v1.35-beta @ ariana, no tune info: using qs/gnfs crossover of 95 digits
+03/04/21 15:59:06 v1.35-beta @ ariana, no tune info: using qs/snfs crossover of 75 digits
+03/04/21 15:59:06 v1.35-beta @ ariana, ****************************
+03/04/21 15:59:06 v1.35-beta @ ariana, div: found prime factor = 509
+03/04/21 15:59:06 v1.35-beta @ ariana, div: found prime factor = 3793
+03/04/21 15:59:06 v1.35-beta @ ariana, rho: x^2 + 3, starting 1000 iterations on C44
+03/04/21 15:59:06 v1.35-beta @ ariana, prp6 = 621301
+03/04/21 15:59:06 v1.35-beta @ ariana, rho: x^2 + 3, starting 1000 iterations on C38
+03/04/21 15:59:06 v1.35-beta @ ariana, prp8 = 34843253
+03/04/21 15:59:06 v1.35-beta @ ariana, prp30 = 663863547084526888683884303659
+03/04/21 15:59:06 v1.35-beta @ ariana, Total factoring time = 0.0101 seconds
+03/04/21 16:07:55 v1.35-beta @ ariana, 
+03/04/21 16:07:55 v1.35-beta @ ariana, ****************************
+03/04/21 16:07:55 v1.35-beta @ ariana, Starting factorization of 27745988001082406709328642326910464190271015775799
+03/04/21 16:07:55 v1.35-beta @ ariana, using pretesting plan: normal
+03/04/21 16:07:55 v1.35-beta @ ariana, no tune info: using qs/gnfs crossover of 95 digits
+03/04/21 16:07:55 v1.35-beta @ ariana, no tune info: using qs/snfs crossover of 75 digits
+03/04/21 16:07:55 v1.35-beta @ ariana, ****************************
+03/04/21 16:07:55 v1.35-beta @ ariana, div: found prime factor = 509
+03/04/21 16:07:55 v1.35-beta @ ariana, div: found prime factor = 3793
+03/04/21 16:07:55 v1.35-beta @ ariana, rho: x^2 + 3, starting 1000 iterations on C44
+03/04/21 16:07:55 v1.35-beta @ ariana, prp6 = 621301
+03/04/21 16:07:55 v1.35-beta @ ariana, rho: x^2 + 3, starting 1000 iterations on C38
+03/04/21 16:07:55 v1.35-beta @ ariana, prp8 = 34843253
+03/04/21 16:07:55 v1.35-beta @ ariana, prp30 = 663863547084526888683884303659
+03/04/21 16:07:55 v1.35-beta @ ariana, Total factoring time = 0.0086 seconds

@@ -35,11 +35,11 @@ class Lattice():
     def beta_t(self,t):
         return lambda b:self.rho_t(t)(b)^(t-1)*pi^((t-1)/2)/(self.det_t[t]*gamma((t+1)/2))
 
-v = [vector(randint(-99,99) for _ in range(9)) for _ in range(5)]
+v = [vector(randint(-9999,9999) for _ in range(9)) for _ in range(5)]
 L = Lattice(v)
 pi2 = L.pi_t[2]
 zeta2 = L.zeta_t[2]
-w = vector(randint(-9,9) for _ in range(9))
+w = vector(randint(-99,99) for _ in range(9))
 print((pi2*w)*(zeta2*w)) # sanity check
 print(L.det_t[4]*L.beta_t(4)(w)/L.rho_t(4)(w)^3) # make sure volume of 3-ball is actually 4/3 pi r^3
 for i in range(5):

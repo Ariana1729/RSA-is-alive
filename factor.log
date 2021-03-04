@@ -1,0 +1,34 @@
+03/04/21 11:37:44 v1.35-beta @ ariana, 
+03/04/21 11:37:44 v1.35-beta @ ariana, ****************************
+03/04/21 11:37:44 v1.35-beta @ ariana, Starting factorization of 57105727273542262652200264610718642584634617729084089562810
+03/04/21 11:37:44 v1.35-beta @ ariana, using pretesting plan: normal
+03/04/21 11:37:44 v1.35-beta @ ariana, no tune info: using qs/gnfs crossover of 95 digits
+03/04/21 11:37:44 v1.35-beta @ ariana, no tune info: using qs/snfs crossover of 75 digits
+03/04/21 11:37:44 v1.35-beta @ ariana, ****************************
+03/04/21 11:37:44 v1.35-beta @ ariana, div: found prime factor = 2
+03/04/21 11:37:44 v1.35-beta @ ariana, div: found prime factor = 5
+03/04/21 11:37:44 v1.35-beta @ ariana, div: found prime factor = 1009
+03/04/21 11:37:44 v1.35-beta @ ariana, rho: x^2 + 3, starting 1000 iterations on C55
+03/04/21 11:37:44 v1.35-beta @ ariana, prp5 = 13147
+03/04/21 11:37:44 v1.35-beta @ ariana, rho: x^2 + 3, starting 1000 iterations on C51
+03/04/21 11:37:44 v1.35-beta @ ariana, prp6 = 223339
+03/04/21 11:37:44 v1.35-beta @ ariana, rho: x^2 + 3, starting 1000 iterations on C46
+03/04/21 11:37:44 v1.35-beta @ ariana, prp6 = 660589
+03/04/21 11:37:44 v1.35-beta @ ariana, prp40 = 2917869959633888715062434652171019795557
+03/04/21 11:37:44 v1.35-beta @ ariana, Total factoring time = 0.0126 seconds
+03/04/21 11:37:52 v1.35-beta @ ariana, 
+03/04/21 11:37:52 v1.35-beta @ ariana, ****************************
+03/04/21 11:37:52 v1.35-beta @ ariana, Starting factorization of 742374454556049414478603439939342353600250030478093164316508
+03/04/21 11:37:52 v1.35-beta @ ariana, using pretesting plan: normal
+03/04/21 11:37:52 v1.35-beta @ ariana, no tune info: using qs/gnfs crossover of 95 digits
+03/04/21 11:37:52 v1.35-beta @ ariana, no tune info: using qs/snfs crossover of 75 digits
+03/04/21 11:37:52 v1.35-beta @ ariana, ****************************
+03/04/21 11:37:52 v1.35-beta @ ariana, div: found prime factor = 2
+03/04/21 11:37:52 v1.35-beta @ ariana, div: found prime factor = 2
+03/04/21 11:37:52 v1.35-beta @ ariana, div: found prime factor = 17
+03/04/21 11:37:52 v1.35-beta @ ariana, rho: x^2 + 3, starting 1000 iterations on C59
+03/04/21 11:37:52 v1.35-beta @ ariana, prp5 = 20773
+03/04/21 11:37:52 v1.35-beta @ ariana, rho: x^2 + 3, starting 1000 iterations on C54
+03/04/21 11:37:52 v1.35-beta @ ariana, prp9 = 153132829
+03/04/21 11:37:52 v1.35-beta @ ariana, prp46 = 3431994471326757986880577773281740708179813143
+03/04/21 11:37:52 v1.35-beta @ ariana, Total factoring time = 0.0178 seconds

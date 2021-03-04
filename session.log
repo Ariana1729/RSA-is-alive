@@ -1,0 +1,22 @@
+03/04/21 11:37:44 v1.35-beta @ ariana, System/Build Info: 
+03/04/21 11:37:44 v1.35-beta @ ariana, cached 664579 primes. pmax = 9999991
+03/04/21 11:37:44 v1.35-beta @ ariana, detected Intel(R) Core(TM) i7-4500U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 4194304 bytes, CL = 64 bytes
+03/04/21 11:37:44 v1.35-beta @ ariana, measured cpu frequency ~= 2394.452550
+03/04/21 11:37:44 v1.35-beta @ ariana, using 1 random witnesses for Rabin-Miller PRP checks
+
+03/04/21 11:37:44 v1.35-beta @ ariana, New random seeds: 2344108395, 2804651027
+
+03/04/21 11:37:44 v1.35-beta @ ariana, Processing: factor(57105727273542262652200264610718642584634617729084089562810)
+03/04/21 11:37:44 v1.35-beta @ ariana, Result    : 
+03/04/21 11:37:52 v1.35-beta @ ariana, System/Build Info: 
+03/04/21 11:37:52 v1.35-beta @ ariana, cached 664579 primes. pmax = 9999991
+03/04/21 11:37:52 v1.35-beta @ ariana, detected Intel(R) Core(TM) i7-4500U CPU @ 1.80GHz
+detected L1 = 32768 bytes, L2 = 4194304 bytes, CL = 64 bytes
+03/04/21 11:37:52 v1.35-beta @ ariana, measured cpu frequency ~= 2394.445230
+03/04/21 11:37:52 v1.35-beta @ ariana, using 1 random witnesses for Rabin-Miller PRP checks
+
+03/04/21 11:37:52 v1.35-beta @ ariana, New random seeds: 3775721185, 3056647255
+
+03/04/21 11:37:52 v1.35-beta @ ariana, Processing: factor(742374454556049414478603439939342353600250030478093164316508)
+03/04/21 11:37:52 v1.35-beta @ ariana, Result    : 

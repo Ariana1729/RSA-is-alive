@@ -1,0 +1,4 @@
+*.sage.py
+*.log
+*.aux
+*.out

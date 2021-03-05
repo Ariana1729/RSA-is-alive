@@ -234,3 +234,14 @@
 03/04/21 16:07:55 v1.35-beta @ ariana, prp8 = 34843253
 03/04/21 16:07:55 v1.35-beta @ ariana, prp30 = 663863547084526888683884303659
 03/04/21 16:07:55 v1.35-beta @ ariana, Total factoring time = 0.0086 seconds
+03/05/21 21:29:14 v1.35-beta @ ariana, 
+03/05/21 21:29:14 v1.35-beta @ ariana, ****************************
+03/05/21 21:29:14 v1.35-beta @ ariana, Starting factorization of 100000980001501
+03/05/21 21:29:14 v1.35-beta @ ariana, using pretesting plan: normal
+03/05/21 21:29:14 v1.35-beta @ ariana, no tune info: using qs/gnfs crossover of 95 digits
+03/05/21 21:29:14 v1.35-beta @ ariana, no tune info: using qs/snfs crossover of 75 digits
+03/05/21 21:29:14 v1.35-beta @ ariana, ****************************
+03/05/21 21:29:14 v1.35-beta @ ariana, Fermat method found factors:
+03/05/21 21:29:14 v1.35-beta @ ariana, prp8 = 10000079
+03/05/21 21:29:14 v1.35-beta @ ariana, prp8 = 10000019
+03/05/21 21:29:14 v1.35-beta @ ariana, Total factoring time = 0.0063 seconds

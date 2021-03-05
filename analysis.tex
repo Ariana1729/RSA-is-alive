@@ -1,0 +1,66 @@
+\documentclass[12pt,titlepage]{article}
+
+\usepackage{amssymb,amsmath} % usual symbols
+\usepackage{amsthm} % for theorem environments
+\usepackage{tikz-cd} % for drawing commutative diagrams
+
+\usepackage{hyperref} % needed for fancy theorem referencing
+\hypersetup{colorlinks,citecolor=black,filecolor=black,linkcolor=blue,urlcolor=black}
+\usepackage{theoremref} % for fancy theorem referencing
+
+\newtheorem{thm}{Theorem}[section]
+\newtheorem{cor}{Corollary}[thm]
+\newtheorem{lem}[thm]{Lemma}
+\theoremstyle{remark}
+\newtheorem{rmk}[thm]{Remark}
+\newtheorem*{exm}{Example}
+
+\newcommand{\mb}{\mathbb}
+\newcommand{\mf}{\mathbf}
+\newcommand{\mc}{\mathcal}
+\newcommand{\mfk}{\mathfrak}
+\newcommand{\spec}[1]{\text{Spec}\left(#1\right)}
+\DeclareMathOperator{\Hom}{Hom}
+
+\title{}
+\date{\today}
+\author{}
+\begin{document}
+
+\section{Factoring algorithm}
+
+We start off by analysing CVP for the lattice and vector
+
+\[\mc L=\begin{pmatrix}c_1&0&\dots&0&0\\0&c_2&\dots&0&0\\\vdots&\vdots&\ddots&\vdots&\vdots\\0&0&\dots&c_{n-1}&0\\B\log p_1&B\log p_2&\dots&B\log p_{n-1}&B\log p_n\end{pmatrix}\quad\mf a=\begin{pmatrix}0\\0\\\vdots\\0\\B\log N\end{pmatrix}\]
+
+and assume that $c_i>0$.
+
+Suppose that $\mf b$ is the closest vector in $\mathcal L$ to $\mf a$, given by
+
+\[\mf b=\begin{pmatrix}e_1c_1\\e_2c_2\\\vdots\\e_{n-1}c_{n-1}\\B\log\prod_{i=1}^np_i^{e_i}\end{pmatrix}\]
+
+In some sense $B$ controls how big $e_i$ gets. The bigger $B$ gets the bigger $e_i$ gets.
+
+Suppose that $e_i\neq0$ for all $i$. If any of them is zero we can just repeat this analysis with a smaller lattice probably.
+
+By Minkowski's lattice point theorem, we have
+
+\[B\log\left(\frac{\prod_{i=1}^np_i^{e_i}}{N}\right)\prod_{i=1}^{n-1}e_ic_i\leq|\det\mc L|=B\log p_n\prod_{i=1}^{n-1}c_i\]
+
+Let $\varepsilon=\prod_{i=1}^np_i^{e_i}-N$, then we have
+
+\[\log p_n\geq\left(1+\frac\varepsilon N\right)\prod_{i=1}^{n-1}e_i+O\left(\frac{\varepsilon^2}{N^2}\right)\]
+
+Which gives us
+
+\[\varepsilon\lessapprox N\left(\frac{\log p_n}{\prod_{i=1}^{n-1}e_i}-1\right)\]
+
+and if we assume $e_i$ is somewhat random in a small range we immediately see that $\varepsilon\approx O(N)$, which tells us we need roughtly $O\left(\frac{N}{\log N^n}\right)$ lattices to obtain a fac-relation, which is pretty trash.
+
+//todo: approx $e_i$ with $B$ but honestly looks quite bad lol
+
+%\begin{thebibliography}{99} % alternatively can use bibtex
+%    \bibitem[a]{b} c
+%\end{thebibliography}
+
+\end{document}

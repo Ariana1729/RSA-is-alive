@@ -18,7 +18,7 @@ for _ in range(n+1):
     shuffle(f)
     for i in range(n):
         R[i,i] = N*f[i]
-    b = IntegerLattice(R).HKZ()[0]
+    b = IntegerLattice(R).HKZ()[-1]
     e = zip([b[i]/R[i,i] for i in range(n)],Primes()[:n])
     u,v = 1,1
     for i,j in e:
